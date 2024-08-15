@@ -1,0 +1,9 @@
+Användarmanual för Ljudspelaren:
+
+1. Starta programmet genom att köra MainApp.java.
+2. När programmet startar ser du två knappar: "Spela Beep" och "Spela Chime".
+3. Tryck på "Spela Beep" för att spela upp ett kort pipande ljud.
+4. Tryck på "Spela Chime" för att spela upp en liten trudelutt.
+
+Du kan trycka på knapparna hur många gånger som helst för att spela upp ljuden igen.
+
